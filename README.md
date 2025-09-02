@@ -2,7 +2,7 @@
 # ECO - 6º Semestre
 ## Integrantes  
 
-- **Diogo Silva Almeida**  
+- **Diogo da Silva Almeida**  
 - **Carolina Yumi Siroma**
 - **Celine Galdino da Silva**
 - 
