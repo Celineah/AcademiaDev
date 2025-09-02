@@ -7,8 +7,8 @@ Este projeto foi desenvolvido como parte da disciplina **APIs e Microsserviços*
 Ciência e Tecnologia de São Paulo – Câmpus Guarulhos**, ministrada pelo Prof. Giovanni.  
 
 
-#ECO - 6º Semestre
-#Integrantes  
+ECO - 6º Semestre
+ Integrantes  
 
 - **Diogo da Silva Almeida**  
 - **Carolina Yumi Siroma**
