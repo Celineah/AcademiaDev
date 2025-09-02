@@ -8,7 +8,7 @@ Ciência e Tecnologia de São Paulo – Câmpus Guarulhos**, ministrada pelo Pro
 
 ##
 # ECO - 6º Semestre
-## Integrantes  
+# Integrantes  
 
 - **Diogo da Silva Almeida**  
 - **Carolina Yumi Siroma**
