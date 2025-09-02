@@ -5,7 +5,7 @@
 - **Diogo da Silva Almeida**  
 - **Carolina Yumi Siroma**
 - **Celine Galdino da Silva**
-- 
+
 O **Academia Dev** é um sistema acadêmico desenvolvido em Java para simular uma plataforma de cursos online,
 com funcionalidades de gestão de alunos, planos de assinatura, matrículas, relatórios e suporte.  
 
